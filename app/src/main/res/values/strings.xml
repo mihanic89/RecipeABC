@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recipe</string>
+    <string name="action_settings">Settings</string>
+    <string name="permission_read_write">The app was not allowed to write to your storage. Hence, it cannot function properly. Please consider granting it this permission</string>
+    <string name="select_stroke">Select stroke</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+</resources>

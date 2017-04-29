@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#004D40</color>
+    <color name="colorPrimary1">#33b679</color>
+    <color name="colorPrimaryDark1">#0b8043</color>
+    <color name="colorPrimary2">#3f51b5</color>
+    <color name="colorPrimaryDark2">#303f9f</color>
+    <color name="colorAccent">#68EFAD</color>
+
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="red">#F44336</color>
+    <color name="pink">#FF4081</color>
+    <color name="purple">#9C27B0</color>
+    <color name="deeppurple">#673AB7</color>
+    <color name="indigo">#3F51B5</color>
+    <color name="blue">#2196F3</color>
+    <color name="cyan">#00BCD4</color>
+    <color name="teal">#009688</color>
+    <color name="green">#4CAF50</color>
+    <color name="lightgreen">#8BC34A</color>
+    <color name="lime">#CDDC39</color>
+    <color name="yellow">#FFEB3B</color>
+
+    <color name="deeporange">#FF5722</color>
+    <color name="brown">#795548</color>
+    <color name="grey">#9E9E9E</color>
+    <color name="bluegrey">#607D8B</color>
+
+
+
+
+    <array name="palette">
+        <item>@color/white</item>
+        <item>@color/black</item>
+        <item>@color/grey</item>
+        <item>@color/bluegrey</item>
+        <item>@color/red</item>
+        <item>@color/pink</item>
+        <item>@color/purple</item>
+        <item>@color/deeppurple</item>
+        <item>@color/indigo</item>
+        <item>@color/blue</item>
+        <item>@color/cyan</item>
+        <item>@color/teal</item>
+        <item>@color/green</item>
+        <item>@color/lightgreen</item>
+        <item>@color/lime</item>
+        <item>@color/yellow</item>
+        <item>#FF7F00</item>
+        <item>@color/deeporange</item>
+        <item>@color/brown</item>
+    </array>
+
+
+
+</resources>
