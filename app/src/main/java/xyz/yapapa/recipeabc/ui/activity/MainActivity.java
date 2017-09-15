@@ -265,6 +265,7 @@ public class MainActivity extends AppCompatActivity
 				R.drawable.l02,
                 R.drawable.l03,
                 R.drawable.l04,
+                R.drawable.l05,
                 R.drawable.l06,
                 R.drawable.l07,
                 R.drawable.l08,
